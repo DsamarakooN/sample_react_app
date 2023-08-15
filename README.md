@@ -20,7 +20,9 @@ To run this application locally, follow these steps:
 
 The application will display a different layout depending on the window width. If the window width is less than or equal to 425 pixels, it will display the React logo, Otherwise, it will display a message stating that the app is only available on mobile devices.
 
-## Demo link [https://sample-react-app-self.vercel.app/]
+## Demo link 
+
+[https://sample-react-app-self.vercel.app/]
 
 Feel free to explore the code and modify it according to your needs!
 
