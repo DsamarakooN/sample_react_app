@@ -22,5 +22,11 @@ The application will display a different layout depending on the window width. I
 
 Feel free to explore the code and modify it according to your needs!
 
+
+## Demo 1 (on mobile devices)
+
 ![Demo 1](./public/demo1.png)
+
+## Demo 2 (On other devices)
+
 ![Demo 1](./public/demo2.png)
